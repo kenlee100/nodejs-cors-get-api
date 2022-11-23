@@ -2,7 +2,7 @@
   "name": "nodejs-cors-get-api",
   "version": "0.0.0",
   "description": "nodejs cors get api",
-  "main":"app.js",
+  "main":"index.js",
   "engines": {
     "node":"14.x"
   },
