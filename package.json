@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "cross-env NODE_ENV=development nodemon ./bin/www"
+    "dev": "nodemon ./bin/www"
   },
   "author":"",
   "license": "ISC",
