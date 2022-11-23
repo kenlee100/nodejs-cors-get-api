@@ -1,7 +1,6 @@
 {
   "name": "nodejs-cors-get-api",
   "version": "0.0.0",
-  "private": true,
   "engines": {
     "node":"14.x"
   },
